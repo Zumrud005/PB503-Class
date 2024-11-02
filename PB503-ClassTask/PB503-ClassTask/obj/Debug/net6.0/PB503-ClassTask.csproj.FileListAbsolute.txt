@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\PB503-ClassTask\PB503-ClassTask\bin\Debug\net6.0\PB503-ClassTask.exe
+C:\Users\ASUS\source\repos\PB503-ClassTask\PB503-ClassTask\bin\Debug\net6.0\PB503-ClassTask.deps.json
+C:\Users\ASUS\source\repos\PB503-ClassTask\PB503-ClassTask\bin\Debug\net6.0\PB503-ClassTask.runtimeconfig.json
+C:\Users\ASUS\source\repos\PB503-ClassTask\PB503-ClassTask\bin\Debug\net6.0\PB503-ClassTask.dll
+C:\Users\ASUS\source\repos\PB503-ClassTask\PB503-ClassTask\bin\Debug\net6.0\PB503-ClassTask.pdb
+C:\Users\ASUS\source\repos\PB503-ClassTask\PB503-ClassTask\obj\Debug\net6.0\PB503-ClassTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\PB503-ClassTask\PB503-ClassTask\obj\Debug\net6.0\PB503-ClassTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\PB503-ClassTask\PB503-ClassTask\obj\Debug\net6.0\PB503-ClassTask.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\PB503-ClassTask\PB503-ClassTask\obj\Debug\net6.0\PB503-ClassTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PB503-ClassTask\PB503-ClassTask\obj\Debug\net6.0\PB503-ClassTask.dll
+C:\Users\ASUS\source\repos\PB503-ClassTask\PB503-ClassTask\obj\Debug\net6.0\refint\PB503-ClassTask.dll
+C:\Users\ASUS\source\repos\PB503-ClassTask\PB503-ClassTask\obj\Debug\net6.0\PB503-ClassTask.pdb
+C:\Users\ASUS\source\repos\PB503-ClassTask\PB503-ClassTask\obj\Debug\net6.0\PB503-ClassTask.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\PB503-ClassTask\PB503-ClassTask\obj\Debug\net6.0\ref\PB503-ClassTask.dll
